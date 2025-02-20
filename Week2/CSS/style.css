@@ -1,0 +1,61 @@
+h1{
+    color: blueviolet;
+    font-style: italic;
+}
+
+.cointainer{
+    background-image: url(background\ image\ 2.jpg);
+padding-top: 50px;
+padding-left: 150px;
+}
+.pilau1{
+    border: 5px;
+    border-style:solid;
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+        
+    
+}
+.pilau2{
+    border: 200px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    flex: auto;
+    flex-direction:column;
+}
+
+h2{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.prepare{
+    color: firebrick;
+    text-align: center;
+    font-style: inherit;
+    text-shadow: firebrick;
+font-weight: bolder;
+font-size: xx-large;
+
+}
+.main1{
+    text-transform: capitalize;
+    text-align: start;
+    list-style-position: inside;
+    font-style: italic;
+}
+.prepare2{
+    text-transform: capitalize;
+text-align:start;
+list-style-position: inside;
+font-style: oblique;
+
+}
+
+@media( )
