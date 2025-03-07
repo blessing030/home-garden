@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    width: 100%;
+    background-image: url(mti.jpg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 270px;
+}
+.logo{
+    color: brown;
+    font-size: xx-large;
+    font-family: sans-serif;
+    padding-left: 60px;
+    float: left;
+    padding-top: 25px;
+}
+.menu{
+width: 100px;
+float: right;
+height: 100px;
+align-items: center;
+}
+ul li{
+    list-style:disc;
+    font-size: larger;
+    
+}
+ul li a{
+    text-decoration: solid;
+    color: whitesmoke;
+    font-weight: bold;
+    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+ul li a:hover{
+    color: orangered;
+
+}
+
+
+
+
+
+
+    
